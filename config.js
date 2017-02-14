@@ -1,6 +1,6 @@
 "use strict";
 module.exports = {
-    name: "Demo UI",
+    name: "demoui",
     type: "static",
     dashUI: false
 };
